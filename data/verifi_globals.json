@@ -1,0 +1,363 @@
+{
+  "id": "b26c6eec-d55f-ea75-be08-933bfeb7a0e9",
+  "name": "Postman Globals",
+  "values": [
+    {
+      "enabled": true,
+      "key": "last_name_key",
+      "value": "last_name",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "first_name_key",
+      "value": "first_name",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "password_key",
+      "value": "password",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "email_key",
+      "value": "email",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "mobile_number_key",
+      "value": "mobile_number",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "date_joined_key",
+      "value": "",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "role_key",
+      "value": "role",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "is_enabled_key",
+      "value": "is_enabled",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_key",
+      "value": "facility",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "user_key",
+      "value": "user",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "dealer_id_key",
+      "value": "dealer",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_name_key",
+      "value": "name",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_name_overflow_key",
+      "value": "name_overflow",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_owner_key",
+      "value": "owner",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_owner_overflow_key",
+      "value": "owner_overflow",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_original_issuance_date_key",
+      "value": "original_issuance_date",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_last_renewal_date_key",
+      "value": "last_renewal_date",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_number_key",
+      "value": "facility_number",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_expiration_date_key",
+      "value": "expiration_date",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_business_type_key",
+      "value": "business_type",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_max_limit_mv50_key",
+      "value": "max_limit_mv50",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_max_limit_mv50w_key",
+      "value": "max_limit_mv50w",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_max_limit_mv93_key",
+      "value": "max_limit_mv93",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_city_key",
+      "value": "city",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_state_key",
+      "value": "state",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_zipcode_key",
+      "value": "zipcode",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_county_key",
+      "value": "county",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_street_key",
+      "value": "street",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_is_in_plate_issuance_program_key",
+      "value": "is_in_plate_issuance_program",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "facility_is_exempted_key",
+      "value": "is_exempted",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_model_key",
+      "value": "model",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_make_key",
+      "value": "make",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_vin_key",
+      "value": "vin",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_classification_key",
+      "value": "classification",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_color_key",
+      "value": "color",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_registration_no_key",
+      "value": "registration_no",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_odometer_key",
+      "value": "odometer",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_attested_key",
+      "value": "attested",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_reason_key",
+      "value": "reason",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_body_type_key",
+      "value": "body_type",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_cylinders_key",
+      "value": "cylinders",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_fuel_type_key",
+      "value": "fuel_type",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_weight_key",
+      "value": "weight",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_seating_capacity_key",
+      "value": "seating_capacity",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_lot_number_key",
+      "value": "lot_number",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_last_plate_number_key",
+      "value": "last_plate_number",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_current_plate_number_key",
+      "value": "current_plate_number",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_current_facility_name_key",
+      "value": "current_facility_name",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_date_of_purchase_key",
+      "value": "date_of_purchase",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_odometer_certificate_key",
+      "value": "odometer_certificate",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_document_type_key",
+      "value": "document_type",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_document_number_key",
+      "value": "document_number",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_status_key",
+      "value": "status",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_deletion_reason_key",
+      "value": "deletion_reason",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_model_year_key",
+      "value": "model_year",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_other_fuel_type_key",
+      "value": "other_fuel_type",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_other_color_key",
+      "value": "other_color",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_transferring_facility_name_key",
+      "value": "transferring_facility_name",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "veh_transferring_facility_number_key",
+      "value": "transferring_facility_number",
+      "type": "text"
+    }
+  ],
+  "_postman_variable_scope": "globals",
+  "_postman_exported_at": "2017-09-22T09:24:20.687Z",
+  "_postman_exported_using": "Postman/5.2.0"
+}
